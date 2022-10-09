@@ -1,2 +1,2 @@
 # test
-Hello friends
+Hello friend
